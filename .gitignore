@@ -1,0 +1,24 @@
+# 独立迁移至公开仓库后也不纳入本地状态、凭证或安装包
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+node_modules/
+dist/
+build/
+out/
+.cache/
+*.log
+*.dmg
+*.zip
