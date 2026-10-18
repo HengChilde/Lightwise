@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "published": true,
   "manifestUrl": "./updates/latest.json",
   "historyUrl": "https://github.com/HengChilde/Lightwise/blob/main/CHANGELOG.md"

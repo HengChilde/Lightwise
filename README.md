@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/macOS-Apple%20Silicon-111311?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="平台：macOS Apple Silicon" />
   <img src="https://img.shields.io/badge/界面-简体中文-d5e7b2?style=flat-square" alt="界面语言：简体中文" />
   <img src="https://img.shields.io/badge/格式-JPG%20%2F%20JPEG-d5e7b2?style=flat-square" alt="照片格式：JPG / JPEG" />
-  <img src="https://img.shields.io/badge/公开下载-v0.1.0-d5e7b2?style=flat-square" alt="公开下载：v0.1.0" />
+  <img src="https://img.shields.io/badge/公开下载-v0.1.1-d5e7b2?style=flat-square" alt="公开下载：v0.1.1" />
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@
 
 ## 获取 Lightwise
 
-**当前版本：Lightwise 0.1.0。** [下载 macOS Apple Silicon 安装包](https://github.com/HengChilde/Lightwise/releases/download/v0.1.0/Lightwise-0.1.0-arm64.dmg)，或前往 [Release 页面](https://github.com/HengChilde/Lightwise/releases/tag/v0.1.0)查看发布资料。
+**当前版本：Lightwise 0.1.1。** [下载 macOS Apple Silicon 安装包](https://github.com/HengChilde/Lightwise/releases/download/v0.1.1/Lightwise-0.1.1-arm64.dmg)，或前往 [Release 页面](https://github.com/HengChilde/Lightwise/releases/tag/v0.1.1)查看发布资料。
 
 首发功能与后续版本变化见[更新记录](./CHANGELOG.md)。
 
@@ -87,6 +87,8 @@
 | 其他平台与格式 | 暂不支持 Intel Mac、Windows 和 RAW |
 
 拿到安装包后，打开 DMG，将 Lightwise 拖入「应用程序」，再选择照片文件夹即可开始使用。首次标记时，确认整理方式和目标目录，然后继续选片。
+
+首次启动遇到系统提示时，可对照安装包内的「安装说明.png」操作；为方便复制，包内另附「安装命令.txt」，内容与图中命令相同。
 
 遇到安装问题可联系开发者；更新时请先正常退出旧版，再替换应用，选片记录保存在本机。英文 README 用于介绍产品，软件暂未提供英文界面。
 

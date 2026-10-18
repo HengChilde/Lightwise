@@ -3,8 +3,8 @@
   "appId": "com.lightwise.desktop",
   "platform": "darwin",
   "arch": "arm64",
-  "version": "0.1.0",
-  "downloadUrl": "https://github.com/HengChilde/Lightwise/releases/download/v0.1.0/Lightwise-0.1.0-arm64.dmg",
-  "sha256": "9f5cfa2dda694d8e4db5309a4ce1017a5aef356747d859d1016d2cbfa2bbfe89",
-  "bytes": 155024360
+  "version": "0.1.1",
+  "downloadUrl": "https://github.com/HengChilde/Lightwise/releases/download/v0.1.1/Lightwise-0.1.1-arm64.dmg",
+  "sha256": "e7d6bd6bf6ba8832e49cf6c0b361942818c9925f6eefecbfe47fed416b29a79b",
+  "bytes": 155172238
 }
