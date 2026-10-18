@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/macOS-Apple%20Silicon-111311?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="Platform: macOS Apple Silicon" />
   <img src="https://img.shields.io/badge/UI-Simplified%20Chinese-d5e7b2?style=flat-square" alt="Interface: Simplified Chinese" />
   <img src="https://img.shields.io/badge/Format-JPG%20%2F%20JPEG-d5e7b2?style=flat-square" alt="Photo formats: JPG / JPEG" />
-  <img src="https://img.shields.io/badge/Public%20download-Coming%20soon-8b949e?style=flat-square" alt="Public download: coming soon" />
+  <img src="https://img.shields.io/badge/Public%20download-v0.1.0-d5e7b2?style=flat-square" alt="Public download: v0.1.0" />
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Press `P` for a keeper or `X` for a reject. Once you set a destination and organ
 
 ## Get Lightwise
 
-**Public downloads are not available yet.** An installer and the official download link will be added here when the app is publicly released.
+**Current version: Lightwise 0.1.0.** [Download the macOS Apple Silicon installer](https://github.com/HengChilde/Lightwise/releases/download/v0.1.0/Lightwise-0.1.0-arm64.dmg), or visit the [release page](https://github.com/HengChilde/Lightwise/releases/tag/v0.1.0) for release details.
 
 See the [release notes](./CHANGELOG.md) for the first release and future updates (in Chinese).
 
