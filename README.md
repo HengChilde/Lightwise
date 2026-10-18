@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="#features">功能亮点</a> · <a href="#download">获取 Lightwise</a> · <a href="#story">为什么做它</a> · <a href="#feedback">交流反馈</a>
+  <a href="https://hengchilde.github.io/Lightwise/">官网</a> · <a href="#features">功能亮点</a> · <a href="#download">获取 Lightwise</a> · <a href="#story">为什么做它</a> · <a href="#feedback">交流反馈</a>
 </p>
 
 ![Lightwise 工作区：左侧浏览照片，中间查看成片，右侧同步显示拍摄参数与规则解读](./assets/workspace-demo.jpg)

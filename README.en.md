@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="#features">Features</a> · <a href="#download">Get Lightwise</a> · <a href="#story">The story</a> · <a href="#feedback">Get in touch</a>
+  <a href="https://hengchilde.github.io/Lightwise/">Website</a> · <a href="#features">Features</a> · <a href="#download">Get Lightwise</a> · <a href="#story">The story</a> · <a href="#feedback">Get in touch</a>
 </p>
 
 ![Lightwise workspace: photo browsing on the left, a large preview in the center, and camera settings with rule-based explanations on the right](./assets/workspace-demo.jpg)
