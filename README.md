@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/macOS-Apple%20Silicon-111311?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="平台：macOS Apple Silicon" />
   <img src="https://img.shields.io/badge/界面-简体中文-d5e7b2?style=flat-square" alt="界面语言：简体中文" />
   <img src="https://img.shields.io/badge/格式-JPG%20%2F%20JPEG-d5e7b2?style=flat-square" alt="照片格式：JPG / JPEG" />
-  <img src="https://img.shields.io/badge/公开下载-v0.1.2-d5e7b2?style=flat-square" alt="公开下载：v0.1.2" />
+  <img src="https://img.shields.io/badge/公开下载-v0.1.3-d5e7b2?style=flat-square" alt="公开下载：v0.1.3" />
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@
 
 ## 获取 Lightwise
 
-**当前版本：Lightwise 0.1.2。** [下载 macOS Apple Silicon 安装包](https://github.com/HengChilde/Lightwise/releases/download/v0.1.2/Lightwise-0.1.2-arm64.dmg)，或前往 [Release 页面](https://github.com/HengChilde/Lightwise/releases/tag/v0.1.2)查看发布资料。
+**当前版本：Lightwise 0.1.3。** [下载 macOS Apple Silicon 安装包](https://github.com/HengChilde/Lightwise/releases/download/v0.1.3/Lightwise-0.1.3-arm64.dmg)，或前往 [Release 页面](https://github.com/HengChilde/Lightwise/releases/tag/v0.1.3)查看发布资料。
 
 首发功能与后续版本变化见[更新记录](./CHANGELOG.md)。
 
