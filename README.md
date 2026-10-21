@@ -14,8 +14,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-Apple%20Silicon-111311?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="平台：macOS Apple Silicon" />
   <img src="https://img.shields.io/badge/界面-简体中文-d5e7b2?style=flat-square" alt="界面语言：简体中文" />
-  <img src="https://img.shields.io/badge/格式-JPG%20%2F%20JPEG-d5e7b2?style=flat-square" alt="照片格式：JPG / JPEG" />
-  <img src="https://img.shields.io/badge/公开下载-v0.1.3-d5e7b2?style=flat-square" alt="公开下载：v0.1.3" />
+  <img src="https://img.shields.io/badge/格式-JPG%20%2F%20HEIC%20%2F%20PNG%20%2B-d5e7b2?style=flat-square" alt="照片格式：JPEG、HEIC、PNG 等静态照片" />
+  <img src="https://img.shields.io/badge/公开下载-v0.1.4-d5e7b2?style=flat-square" alt="公开下载：v0.1.4" />
 </p>
 
 <p align="center">
@@ -56,35 +56,35 @@
 
 ## 一边标记，一边整理
 
-喜欢就按 `P`，淘汰就按 `X`。设置好目标目录和整理规则后，每次标记都会触发对应的文件整理，减少选完照片后再手动分类的重复劳动。
+喜欢就按 `Z`，淘汰就按 `X`。设置好目标目录和整理规则后，每次标记都会触发对应的文件整理，减少选完照片后再手动分类的重复劳动。
 
 - **已选与淘汰分别归档。** 按设置复制或剪切到对应文件夹；复制保留来源原片，剪切在核验目标后移除来源照片。
 - **改主意，也能接着选。** 修改标记时，应用会按新分类调整受管理的文件，并展示任务进度、失败与重试入口。
 - **本地照片，本地处理。** 核心浏览、选片与参数解读离线可用，无需注册账号，不上传照片供分析。
 
-| 快捷键    | 操作                |
-| --------- | ------------------- |
-| `←` / `→` | 上一张 / 下一张     |
-| `P` / `X` | 标记已选 / 淘汰     |
-| `+` / `-` | 放大 / 缩小         |
-| `0`       | 适合窗口            |
-| `G`       | 显示 / 隐藏构图网格 |
-| `?`       | 查看快捷键          |
+| 快捷键    | 操作                              |
+| --------- | --------------------------------- |
+| `↑` / `↓` | 上一张 / 下一张（兼容 `←` / `→`） |
+| `Z` / `X` | 标记已选 / 淘汰                   |
+| `+` / `-` | 放大 / 缩小                       |
+| `0`       | 适合窗口                          |
+| `G`       | 显示 / 隐藏构图网格               |
+| `?`       | 查看快捷键                        |
 
 <a id="download"></a>
 
 ## 获取 Lightwise
 
-**当前版本：Lightwise 0.1.3。** [下载 macOS Apple Silicon 安装包](https://github.com/HengChilde/Lightwise/releases/download/v0.1.3/Lightwise-0.1.3-arm64.dmg)，或前往 [Release 页面](https://github.com/HengChilde/Lightwise/releases/tag/v0.1.3)查看发布资料。
+**当前版本：Lightwise 0.1.4。** [下载 macOS Apple Silicon 安装包](https://github.com/HengChilde/Lightwise/releases/download/v0.1.4/Lightwise-0.1.4-arm64.dmg)，或前往 [Release 页面](https://github.com/HengChilde/Lightwise/releases/tag/v0.1.4)查看发布资料。
 
 首发功能与后续版本变化见[更新记录](./CHANGELOG.md)。
 
-| 项目           | 当前支持                           |
-| -------------- | ---------------------------------- |
-| 设备           | Apple Silicon（M 系列芯片）的 Mac  |
-| 照片           | JPG / JPEG                         |
-| 软件界面       | 简体中文                           |
-| 其他平台与格式 | 暂不支持 Intel Mac、Windows 和 RAW |
+| 项目           | 当前支持                                      |
+| -------------- | --------------------------------------------- |
+| 设备           | Apple Silicon（M 系列芯片）的 Mac             |
+| 照片           | JPEG、HEIC / HEIF、PNG、WebP、AVIF、单页 TIFF |
+| 软件界面       | 简体中文                                      |
+| 其他平台与格式 | 暂不支持 Intel Mac、Windows 和 RAW            |
 
 拿到安装包后，打开 DMG，将 Lightwise 拖入「应用程序」，再选择照片文件夹即可开始使用。首次标记时，确认整理方式和目标目录，然后继续选片。
 
